@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Devbit
+
+I'm a software engineer looking for new and exciting things to learn and user.  Right now I'm focused on Threejs and Reactjs.
 
 <!--
 **devbit01/devbit01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
